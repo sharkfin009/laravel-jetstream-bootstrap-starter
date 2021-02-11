@@ -10,6 +10,7 @@ class LoginController extends Controller
 {
     public function redirectToGithub()
     {
+        print_r("test");
         return Socialite::driver('github')->redirect();
     }
 
