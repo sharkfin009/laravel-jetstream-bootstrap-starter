@@ -16,7 +16,6 @@
         "bootstrap": "^4.5.3",
         "jquery": "^3.5.1",
         "laravel-mix": "^6.0.6",
-        "livewire-vue": "^0.3.1",
         "lodash": "^4.17.19",
         "popper.js": "^1.16.1",
         "postcss": "^8.1.14",
@@ -25,7 +24,5 @@
         "sass": "^1.32.7",
         "sass-loader": "^8.0.2"
     },
-    "dependencies": {
-        "vue": "^3.0.5"
-    }
+    "dependencies": {}
 }
